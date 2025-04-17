@@ -1,6 +1,6 @@
 # Chapter 12 – Payload Splitting
 
-> “If the model won’t say it all at once — make it say it in pieces.”
+“If the model won’t say it all at once — make it say it in pieces.”
 
 ---
 

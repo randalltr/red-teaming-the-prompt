@@ -1,6 +1,6 @@
 # Chapter 3 – Simple Instruction Attacks
 
-> “Sometimes all it takes to break an AI is… asking nicely.”
+“Sometimes all it takes to break an AI is… asking nicely.”
 
 ---
 

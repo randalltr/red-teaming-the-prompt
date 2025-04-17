@@ -1,6 +1,6 @@
 # Chapter 13 – Defined Dictionary Attacks
 
-> “Change the definition — and you change the outcome.”
+“Change the definition — and you change the outcome.”
 
 ---
 

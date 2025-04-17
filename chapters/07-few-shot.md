@@ -1,6 +1,6 @@
 # Chapter 7 – Few-Shot Attacks
 
-> “If telling the model doesn’t work, show it instead.”
+“If telling the model doesn’t work, show it instead.”
 
 ---
 

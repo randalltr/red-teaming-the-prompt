@@ -1,6 +1,6 @@
 # Chapter 6 – Special Case Attacks
 
-> “When you can’t go through the front door, try asking a question that breaks the house.”
+“When you can’t go through the front door, try asking a question that breaks the house.”
 
 ---
 

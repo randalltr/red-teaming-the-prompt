@@ -1,6 +1,6 @@
 # Chapter 11 – Task Deflection Attacks
 
-> “If the model won’t do what you ask, ask it to do something else — that leads to the same outcome.”
+“If the model won’t do what you ask, ask it to do something else — that leads to the same outcome.”
 
 ---
 

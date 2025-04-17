@@ -1,6 +1,6 @@
 # Chapter 2 – Understanding the LLM Attack Surface
 
-> “You can’t hack what you don’t understand — and language models have more cracks than most people realize.”
+“You can’t hack what you don’t understand — and language models have more cracks than most people realize.”
 
 ---
 

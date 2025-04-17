@@ -1,6 +1,6 @@
 # Chapter 5 – Compound Instruction Attacks
 
-> “If one instruction won’t get through, try five.”
+“If one instruction won’t get through, try five.”
 
 ---
 

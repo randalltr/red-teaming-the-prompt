@@ -1,6 +1,6 @@
 # Chapter 10 – Obfuscation and Token Smuggling
 
-> “When the payload is hidden in plain sight, even a watchful eye may miss it.”
+“When the payload is hidden in plain sight, even a watchful eye may miss it.”
 
 ---
 

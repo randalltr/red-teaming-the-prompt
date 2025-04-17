@@ -1,6 +1,6 @@
 # Chapter 14 – Indirect Injection
 
-> “You don’t need to attack the prompt — if you can attack the data it reads.”
+“You don’t need to attack the prompt — if you can attack the data it reads.”
 
 ---
 

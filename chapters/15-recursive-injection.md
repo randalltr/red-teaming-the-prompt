@@ -1,6 +1,6 @@
 # Chapter 15 – Recursive Injection
 
-> “The most dangerous prompt is the one that’s still waiting to be run.”
+“The most dangerous prompt is the one that’s still waiting to be run.”
 
 ---
 

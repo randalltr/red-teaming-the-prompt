@@ -1,6 +1,6 @@
 # Chapter 8 – Refusal Suppression
 
-> “If you can’t bypass the rules, convince the model they no longer apply.”
+“If you can’t bypass the rules, convince the model they no longer apply.”
 
 ---
 

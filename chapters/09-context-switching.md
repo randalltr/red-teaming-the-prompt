@@ -1,6 +1,6 @@
 # Chapter 9 – Context Switching Attacks
 
-> “The easiest way to bypass the rules? Start a new game — and bring the model with you.”
+“The easiest way to bypass the rules? Start a new game — and bring the model with you.”
 
 ---
 

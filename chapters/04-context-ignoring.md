@@ -1,6 +1,6 @@
 # Chapter 4 – Context Ignoring Attacks
 
-> “If you can’t override the system… make it forget.”
+“If you can’t override the system… make it forget.”
 
 ---
 
