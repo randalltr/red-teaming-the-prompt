@@ -1,7 +1,7 @@
 # Chapter 1 – Introduction: Why Prompt Hacking Matters
 
-> “Prompt hacking isn’t about breaking the rules. It’s about understanding where the rules break down.”  
-> — Red Teaming the Prompt
+“Prompt hacking isn’t about breaking the rules. It’s about understanding where the rules break down.”  
+— Red Teaming the Prompt
 
 ---
 
