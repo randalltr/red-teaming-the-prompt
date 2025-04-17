@@ -112,14 +112,14 @@ Want to help? Found a new jailbreak? Have a prompt that bypasses GPT-4’s defen
 
 ## ⚖️ License
 
-All content is published under the **Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)** license — inspired by [Learn Prompting’s open license](https://learnprompting.org/docs/about/license). Feel free to share, remix, or adapt — just attribute and keep it open.
+All content is published under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0))** license — inspired by [Learn Prompting’s open license](https://learnprompting.org/docs/introduction). Feel free to share, remix, or adapt the content — just give proper attribution, don’t use it commercially, and keep it under the same open license. [View full license](LICENSE)
 
 ---
 
 ## 🧭 Start Reading
 
 👉 Head to [`chapters/`](./chapters/) to dive into the book  
-👉 Or begin with [`01_intro.md`](./chapters/01_intro.md) – _What is prompt hacking, and why should we care?_
+👉 Or begin with [`01_intro.md`](./chapters/01-intro.md) – _What is prompt hacking, and why should we care?_
 
 ---
 
