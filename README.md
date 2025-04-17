@@ -119,7 +119,7 @@ All content is published under the **Creative Commons Attribution-NonCommercial 
 ## 🧭 Start Reading
 
 👉 Head to [`chapters/`](./chapters/) to dive into the book  
-👉 Or begin with [`01_intro.md`](./chapters/01-intro.md) – _What is prompt hacking, and why should we care?_
+👉 Or begin with [`01-intro.md`](./chapters/01-intro.md) – _What is prompt hacking, and why should we care?_
 
 ---
 

@@ -1,0 +1,30 @@
+# Node / GitBook / mkdocs build
+node_modules/
+site/
+dist/
+build/
+
+# Python junk (in case of prompt testing scripts later)
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+.venv/
+env/
+venv/
+
+# VSCode & editor configs
+.vscode/
+.idea/
+*.swp
+
+# Mac & OS noise
+.DS_Store
+Thumbs.db
+
+# Output
+*.pdf
+*.log
+*.out
+
+# Prettier cache
+.prettiercache
