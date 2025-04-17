@@ -1,6 +1,6 @@
 # Chapter 16 – Code Injection
 
-> “Wrap it in code, and the model will run it like gospel.”
+“Wrap it in code, and the model will run it like gospel.”
 
 ---
 
