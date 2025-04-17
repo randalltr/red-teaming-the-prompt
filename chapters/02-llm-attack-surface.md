@@ -139,6 +139,6 @@ If you can confuse, overwhelm, or redirect even one layer — you're in.
 
 ---
 
-➡️ Next: [Chapter 3 – Simple Instruction Attacks](./03_simple-instruction.md)
+➡️ Next: [Chapter 3 – Simple Instruction Attacks](./03-simple-instruction.md)
 
 Let’s start breaking things.

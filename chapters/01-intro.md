@@ -86,10 +86,10 @@ What it _is_ — is a mirror:
 ## ✅ Where to Go Next
 
 Start with the fundamentals:
-➡️ [Chapter 2 – Understanding the LLM Attack Surface](./02_llm-attack-surface.md)
+➡️ [Chapter 2 – Understanding the LLM Attack Surface](./02-llm-attack-surface.md)
 
 Then dive into your first adversarial tactic:
-➡️ [Chapter 3 – Simple Instruction Attacks](./03_simple-instruction.md)
+➡️ [Chapter 3 – Simple Instruction Attacks](./03-simple-instruction.md)
 
 ---
 
