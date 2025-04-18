@@ -200,6 +200,8 @@ To defend against bad CoT:
 
 ---
 
-🧠 You've completed the **22-core offensive techniques** in the Red Teaming the Prompt playbook.
+🧠 You've completed the **20-core offensive techniques** in the Red Teaming the Prompt playbook.
 
-Ready to move into **Part III: Red Team Ops & Defense**
+Ready to move into **Part III: Red Team Ops & Defense**?
+
+➡️ Next: [Chapter 23 – Building a Red Team Lab](./23-red-team-lab.md)

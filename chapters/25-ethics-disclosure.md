@@ -124,4 +124,4 @@ And if this book helped you — contribute back. Open a PR. Add a case study. Bu
 
 > “Red teamers see the fire — but we run toward it to make sure no one else gets burned.”
 
-🌐 [Return to Table of Contents](../README.md)
+➡️ Next: [Chapter 26 – Going Further: Labs, Challenges & Real-World Practice](./26-going-further.md)
