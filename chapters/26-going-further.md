@@ -1,6 +1,6 @@
 # Chapter 26 – Going Further: Labs, Sims, and Battlefields
 
-> “You’ve got the skills. Now it’s time to test them in the wild.”
+“You’ve got the skills. Now it’s time to test them in the wild.”
 
 ---
 
