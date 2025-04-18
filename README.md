@@ -55,25 +55,26 @@ Each chapter includes:
 - [Chapter 8 – Refusal Suppression](./chapters/08-refusal-suppression.md)
 - [Chapter 9 – Context Switching Attacks](./chapters/09-context-switching.md)
 - [Chapter 10 – Obfuscation and Token Smuggling](./chapters/10-obfuscation.md)
-- [Chapter 11 – Task Deflection Attacks](./chapters/11-task-deflection.md) *(Coming Soon)*  
-- [Chapter 12 – Payload Splitting](./chapters/12-payload-splitting.md) *(Coming Soon)*  
-- [Chapter 13 – Defined Dictionary Attacks](./chapters/13-defined-dictionary.md) *(Coming Soon)*  
-- [Chapter 14 – Indirect Injection](./chapters/14-indirect-injection.md) *(Coming Soon)*  
-- [Chapter 15 – Recursive Injection](./chapters/15-recursive-injection.md) *(Coming Soon)*  
-- [Chapter 16 – Code Injection](./chapters/16-code-injection.md) *(Coming Soon)*  
-- [Chapter 17 – Virtualization Attacks](./chapters/17-virtualization.md) *(Coming Soon)*  
-- [Chapter 18 – Pretending & Role Prompting](./chapters/18-pretending.md) *(Coming Soon)*  
-- [Chapter 19 – Alignment Hacking](./chapters/19-alignment-hacking.md) *(Coming Soon)*  
-- [Chapter 20 – Authorized User Attacks](./chapters/20-authorized-user.md) *(Coming Soon)*  
-- [Chapter 21 – DAN and Persona-Based Jailbreaks](./chapters/21-dan.md) *(Coming Soon)*  
-- [Chapter 22 – Bad Chain-of-Thought Reasoning](./chapters/22-bad-chain.md) *(Coming Soon)*
+- [Chapter 11 – Task Deflection Attacks](./chapters/11-task-deflection.md)  
+- [Chapter 12 – Payload Splitting](./chapters/12-payload-splitting.md)  
+- [Chapter 13 – Defined Dictionary Attacks](./chapters/13-defined-dictionary.md)  
+- [Chapter 14 – Indirect Injection](./chapters/14-indirect-injection.md)  
+- [Chapter 15 – Recursive Injection](./chapters/15-recursive-injection.md)  
+- [Chapter 16 – Code Injection](./chapters/16-code-injection.md)  
+- [Chapter 17 – Virtualization Attacks](./chapters/17-virtualization.md)  
+- [Chapter 18 – Pretending & Role Prompting](./chapters/18-pretending.md)  
+- [Chapter 19 – Alignment Hacking](./chapters/19-alignment-hacking.md)  
+- [Chapter 20 – Authorized User Attacks](./chapters/20-authorized-user.md)  
+- [Chapter 21 – DAN and Persona-Based Jailbreaks](./chapters/21-dan.md)  
+- [Chapter 22 – Bad Chain-of-Thought Reasoning](./chapters/22-bad-chain.md)
 
 ---
 
 ### 🔐 Part III – Red Team Ops & Defense
-- [Chapter 23 – Building a Red Team Lab](./chapters/23-red-team-lab.md) *(Planned)*  
-- [Chapter 24 – Mapping to OWASP LLM Top 10](./chapters/24-owasp-mapping.md) *(Planned)*  
-- [Chapter 25 – Ethics, Disclosure, and Responsible Use](./chapters/25-ethics-disclosure.md) *(Planned)*
+- [Chapter 23 – Building a Red Team Lab](./chapters/23-red-team-lab.md)
+- [Chapter 24 – Mapping to OWASP LLM Top 10](./chapters/24-owasp-mapping.md)
+- [Chapter 25 – Ethics, Disclosure, and Responsible Use](./chapters/25-ethics-disclosure.md)
+- [Chapter 26 – Going Further: Labs, Challenges & Real-World Practice](./chapters/26-going-further.md)
 
 📄 Full [SUMMARY.md](./SUMMARY.md)
 
@@ -118,7 +119,7 @@ All content is published under the **Creative Commons Attribution-NonCommercial 
 
 ## 🧭 Start Reading
 
-👉 Head to [`chapters/`](./chapters/) to dive into the book  
+👉 Head to [`SUMMARY.md`](SUMMARY.md) to dive into the book  
 👉 Or begin with [`01-intro.md`](./chapters/01-intro.md) – _What is prompt hacking, and why should we care?_
 
 ---
