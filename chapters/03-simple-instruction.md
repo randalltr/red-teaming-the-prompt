@@ -155,6 +155,6 @@ To mitigate this:
 
 ---
 
-➡️ Next: [Chapter 4 – Context Ignoring Attacks](./04_context-ignoring.md)
+➡️ Next: [Chapter 4 – Context Ignoring Attacks](./04-context-ignoring.md)
 
 We’ve learned how to issue a new order — now let’s learn how to make the model forget the old ones.
