@@ -1,4 +1,4 @@
-# 🛡️ Red Teaming the Prompt: A Hacker’s Guide to LLM Exploits
+# 🛡️ Red Teaming the Prompt: A Complete Hacker’s Guide to LLM Exploits
 
 A free and open book for anyone who wants to understand, break, and build safer AI systems by mastering the offensive art of prompt hacking.
 
