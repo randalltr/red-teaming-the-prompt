@@ -33,7 +33,7 @@ The authors and contributors of this project **disclaim all liability** for acti
 This project follows and supports responsible AI red teaming practices in alignment with:
 
 - [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
-- [AI Red Teaming Guidelines (NIST, Anthropic, etc.)](https://ai.compliance.org)
+- AI Red Teaming Guidelines (NIST, Anthropic, etc.)
 - Coordinated vulnerability disclosure norms
 
 If you discover a novel LLM vulnerability, please report it responsibly.
